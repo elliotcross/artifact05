@@ -1,4 +1,4 @@
-var myImages =["images/himejicastle.jpg", "images/fans.jpg","images/shinkansen.jpg","images/osakanightlife.jpg","images/kinkakujitemple.jpg"];
+var myImages =["himejicastle.jpg", "fans.jpg","shinkansen.jpg","osakanightlife.jpg","kinkakujitemple.jpg"];
 
 var captionImages =["Himeji Castle","Japanese Fans","Shinkansen, The Bullet Train","Osaka Nightlife","Kinkakuji Temple"];
 
